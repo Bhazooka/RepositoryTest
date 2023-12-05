@@ -2,4 +2,6 @@ this is test file number 2\
 
 this has now been edited from the other branch
 
-okay thats super great, create a conflict
+
+editing this new file to create a merge conflict
+
